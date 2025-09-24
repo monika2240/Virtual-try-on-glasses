@@ -6,11 +6,6 @@ Experience the cutting-edge fusion of computer vision and augmented reality
 
 Allowing users to try on various 3D glasses in real-time.
 
-## Live Demo
-**[https://bensonruan.com/virtual-try-on-glasses-with-javascript/](https://bensonruan.com/virtual-try-on-glasses-with-javascript/)**
-
-![virtual-glasses-try-on](https://bensonruan.com/wp-content/webp-express/webp-images/uploads/2023/07/Virtual-Glasses-Try-On-Demo.webp)
-
 ## Installing
 Clone this repository to your local computer
 ``` bash
